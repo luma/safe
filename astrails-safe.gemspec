@@ -33,6 +33,7 @@ Remote storage is supported on Amazon S3, Rackspace Cloud Files, or just plain S
      "lib/astrails/safe/cloudfiles.rb",
      "lib/astrails/safe/config/builder.rb",
      "lib/astrails/safe/config/node.rb",
+     "lib/astrails/safe/ftp.rb",
      "lib/astrails/safe/gpg.rb",
      "lib/astrails/safe/gzip.rb",
      "lib/astrails/safe/local.rb",
